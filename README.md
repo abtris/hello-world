@@ -1,6 +1,6 @@
 # Hello World
 
-(Follow Rabbit])(https://guides.github.com/activities/hello-world/)
+[Follow Rabbit](https://guides.github.com/activities/hello-world/)
 
 
 - Create a repository (Hello World)
